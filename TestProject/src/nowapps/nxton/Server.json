@@ -1,0 +1,39 @@
+{"serverFamily" : [
+{
+	"name" : "Server1",
+	"softwareType" : "Database",
+	"softwareName" : "MySQL",
+	"softwareVersion" : "5.5"
+},
+{
+	"name" : "Server2",
+	"softwareType" : "Database",
+	"softwareName" : "MySQL",
+	"softwareVersion" : "5.1"
+},
+{
+	"name" : "Server3",
+	"softwareType" : "OS",
+	"softwareName" : "Ubuntu",
+	"softwareVersion" : "10.04"
+},
+{
+	"name" : "Server1",
+	"softwareType" : "OS",
+	"softwareName" : "Ubuntu",
+	"softwareVersion" : "12.04"
+},
+{
+	"name" : "Server2",
+	"softwareType" : "OS",
+	"softwareName" : "Ubuntu",
+	"softwareVersion" : "12.04"
+},
+{
+	"name" : "Server3",
+	"softwareType" : "Language",
+	"softwareName" : "Python",
+	"softwareVersion" : "2.6"
+}
+]
+}
