@@ -38,6 +38,7 @@ class MyThread extends Thread {
 		}
 	}
 
+	/*sleeps thread for a certain amount of time */
 	void randomWait() {
 		try {
 			sleep((long) (3000 * Math.random()));
